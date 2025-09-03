@@ -49,5 +49,5 @@ const my = [
     }
 ]
 console.log(my[0].favourite[3].fruit.is)
-
 // "Apple"
+

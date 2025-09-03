@@ -1,5 +1,3 @@
-// buatkan variabel bertipe object, lalu mendapatkan hasil = koda, tapi yang harus dilakukan untuk mendapatkan koda, saya harus meakses 
-
 const obj = {
     str: [
         null,
@@ -51,4 +49,5 @@ const my = [
     }
 ]
 console.log(my[0].favourite[3].fruit.is)
+
 // "Apple"

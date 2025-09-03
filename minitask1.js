@@ -27,7 +27,6 @@ const obj = {
         ]
     ]
 }
-
 console.log(obj.str[3][1][2].man[0].the.name.of.us)
 // Koda
 
